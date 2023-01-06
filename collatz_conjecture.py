@@ -1,6 +1,8 @@
 """
 If it is even, calculate x / 2
 If it is odd, calculate 3 * x + 1
+偶数：计算x / 2
+奇数：计算3 * x + 1
 """
 
 while True:

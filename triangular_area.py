@@ -1,5 +1,6 @@
 """
-This program will calculate the triangular area.
+This program will calculate the triangular area(with Heron's formula)
+计算三角形面积（利用海伦公式）
 """
 import math
 
