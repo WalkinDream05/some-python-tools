@@ -6,7 +6,7 @@ If it is odd, calculate 3 * x + 1
 """
 
 while True:
-    x = input("Enter a number, and I will calculate for you(Enter 'q' to quit): ")
+    x = input("Enter a number, and I will calculate for you (Enter 'q' to quit): ")
     if x.isnumeric() is False and x != 'q':
         print('The input should be a number and it should be positive!')
     elif x != 'q' and int(x) > 0:
